@@ -1,0 +1,18 @@
+C:\Users\Tarun\source\repos\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.csprojAssemblyReference.cache
+C:\Users\Tarun\source\repos\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\Tarun\source\repos\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.AssemblyInfo.cs
+C:\Users\Tarun\source\repos\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\source\repos\CustomerCommLib\bin\Debug\netcoreapp3.1\CustomerCommLib.deps.json
+C:\Users\Tarun\source\repos\CustomerCommLib\bin\Debug\netcoreapp3.1\CustomerCommLib.dll
+C:\Users\Tarun\source\repos\CustomerCommLib\bin\Debug\netcoreapp3.1\CustomerCommLib.pdb
+C:\Users\Tarun\source\repos\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.dll
+C:\Users\Tarun\source\repos\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\bin\Debug\netcoreapp3.1\CustomerCommLib.deps.json
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\bin\Debug\netcoreapp3.1\CustomerCommLib.dll
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\bin\Debug\netcoreapp3.1\CustomerCommLib.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.csprojAssemblyReference.cache
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.AssemblyInfo.cs
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.dll
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\CustomerCommLib\obj\Debug\netcoreapp3.1\CustomerCommLib.pdb
