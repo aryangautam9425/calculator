@@ -1,0 +1,27 @@
+C:\Users\Tarun\source\repos\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.deps.json
+C:\Users\Tarun\source\repos\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.dll
+C:\Users\Tarun\source\repos\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.pdb
+C:\Users\Tarun\source\repos\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\Tarun\source\repos\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.AssemblyInfoInputs.cache
+C:\Users\Tarun\source\repos\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.AssemblyInfo.cs
+C:\Users\Tarun\source\repos\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\source\repos\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.dll
+C:\Users\Tarun\source\repos\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.deps.json
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.dll
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.pdb
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.AssemblyInfoInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.AssemblyInfo.cs
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.dll
+C:\Users\Tarun\Desktop\Cogni\Training\NUnit\Nunit\NUnit code reference\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.pdb
+F:\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.deps.json
+F:\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.dll
+F:\MagicFilesLib\bin\Debug\netcoreapp3.1\MagicFilesLib.pdb
+F:\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.csproj.AssemblyReference.cache
+F:\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.AssemblyInfoInputs.cache
+F:\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.AssemblyInfo.cs
+F:\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.csproj.CoreCompileInputs.cache
+F:\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.dll
+F:\MagicFilesLib\obj\Debug\netcoreapp3.1\MagicFilesLib.pdb
